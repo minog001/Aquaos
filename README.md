@@ -248,10 +248,3 @@ login_logs         — ประวัติการ Login
 
 ---
 
-##  License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-> 🐟 *Smart Aquaculture System — Modern Tool for Modern Fish Farming*
