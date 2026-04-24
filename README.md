@@ -249,14 +249,6 @@ login_logs         — ประวัติการ Login
 
 ---
 
-## 👥 ผู้จัดทำ
-
-| ชื่อ | บทบาท | GitHub |
-|---|---|---|
-| DylanCompany | Full Stack Developer | [@dylancompany](https://github.com/dylancompany) |
-
----
-
 ##  License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
